@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Min — a self-taught, passionate beginner in Android Development 📱 and Java ☕
 
-🔭 I've recently completed my first real-world app, "Vocabulary Learning App": [Sprax](https://github.com/yourusername/your-repo-link) 
+🔭 I've recently completed my first real-world app, "Vocabulary Learning App": [Sprax](https://github.com/SupaMinovative/Sprax)
 
 🌱 I’m learning mobile development, databases, and clean coding principles, while deepening my knowledge of Java.
 
