@@ -1,7 +1,8 @@
 Hi there 👋
 
-I'm Min — a self-taught, passionate beginner in Android Development 📱 and Java ☕
+Hi, I’m Min — a self-taught and passionate beginner in Java ☕ and Android Development 📱, with a growing interest in software development as a whole. I'm excited to explore all opportunities in tech, from building apps to solving real-world problems through code.
 
+**The more I'm captivated by how just a few lines of code can bring ideas to life, the more I'm inspired to keep following this path.**
 
 🔭 My first real-world app: [Sprax](https://github.com/SupaMinovative/Sprax) a vocabulary learning app for German learners.
 
