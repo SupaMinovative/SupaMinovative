@@ -10,16 +10,19 @@ I’m **Min** — a self-taught and passionate beginner in Java ☕ and Android 
 
 **The more I'm captivated by how just a few lines of code can bring ideas to life, the more I'm inspired to keep following this path.**
 
+## [Simple Shopping Cart](https://github.com/SupaMinovative/Sprax) 
+**My most fully developed, independently built app so far.**
+
+Built from scratch in Java — featuring full-screen product display, live cart updates with quantity control, and local user authentication using Room DB and SharedPreferences.
+
+Proud to represent this one — it’s where all my skills came together!
+
 ## 🔭 My first real-world app: 
 
 [Sprax](https://github.com/SupaMinovative/Sprax) a vocabulary learning app for German learners.
 
 ## 🎮 Second project:
  [Guessify](https://github.com/SupaMinovative/Guessify) a word-guessing game built in Java, featuring LiveData and Room DB for a reactive, rewarding experience.
- 
-## 🔐 Authentication project:
-
-[Simple Login UI](https://github.com/SupaMinovative/simple-login-ui), an Android app built with Java and Room DB (SQLite). Includes user registration, login with validation, and local data storage. It also bridges nicely into backend tech like Spring Boot and PostgreSQL, which I’m currently learning.
 
 ## 💚 A tiny taste of JavaScript:
 
