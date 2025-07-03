@@ -10,7 +10,7 @@ I’m **Min** — a self-taught and passionate beginner in Java ☕ and Android 
 
 **The more I'm captivated by how just a few lines of code can bring ideas to life, the more I'm inspired to keep following this path.**
 
-## [Simple Shopping Cart](https://github.com/SupaMinovative/Sprax) 
+## [Simple Shopping Cart](https://github.com/SupaMinovative/SimpleShoppingCart) 
 **My most fully developed, independently built app so far.**
 
 Built from scratch in Java — featuring full-screen product display, live cart updates with quantity control, and local user authentication using Room DB and SharedPreferences.
