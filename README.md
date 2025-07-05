@@ -18,9 +18,9 @@ independently built app so far.
 
 [Simple Shopping Cart](https://github.com/SupaMinovative/SimpleShoppingCart) 
 
-Built from scratch in Java — simulates the logic of a real-world shopping cart with full-screen product display, live cart updates with pricing and quantity controls, and local user authentication using Room Database and SharedPreferences.
+Built from scratch in Java — integrated LiveData, ViewModel, and custom logic into a real-time shopping cart app with local login (Room & SharedPreferences) and a dynamic UI.
 
-Proud to represent this one — it’s where all my skills came together!
+Proud to share this — it brought together everything I’ve learned so far.
 
 ## 🔭 My first real-world app: 
 
