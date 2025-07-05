@@ -1,7 +1,9 @@
 ``while (!opportunity) {
-    System.out.println("Trying to create it 💪");
-}
-System.out.println("Opportunity found! 🚀");``
+    System.out.println("Trying to create it 🌱");
+}``
+
+
+``System.out.println("Opportunity found! 🚀");``
 
 
 Hi there 👋
@@ -10,10 +12,13 @@ I’m **Min** — a self-taught and passionate beginner in Java ☕ and Android 
 
 **The more I'm captivated by how just a few lines of code can bring ideas to life, the more I'm inspired to keep following this path.**
 
-## [Simple Shopping Cart](https://github.com/SupaMinovative/SimpleShoppingCart) 
-**My most fully developed, independently built app so far.**
+## My most fully developed,
 
-Built from scratch in Java — featuring full-screen product display, live cart updates with quantity control, and local user authentication using Room DB and SharedPreferences.
+independently built app so far.
+
+[Simple Shopping Cart](https://github.com/SupaMinovative/SimpleShoppingCart) 
+
+Built from scratch in Java — simulates the logic of a real-world shopping cart with full-screen product display, live cart updates with pricing and quantity controls, and local user authentication using Room Database and SharedPreferences.
 
 Proud to represent this one — it’s where all my skills came together!
 
