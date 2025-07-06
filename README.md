@@ -8,9 +8,12 @@
 
 Hi there 👋
 
-I’m **Min** — a self-taught and passionate beginner in Java ☕ and Android Development 📱, with a growing interest in software development as a whole. I'm excited to explore all opportunities in tech, from building apps to solving real-world problems through code.
+I’m **Min** — a self-taught and passionate Junior Android Developer 📱 with solid Java ☕ skills and a strong drive to keep growing. I’ve built Android apps using MVVM architecture, Room Database, RecyclerView, and multithreading — while constantly deepening my knowledge and sharpening my skills in software development.
 
-**The more I'm captivated by how just a few lines of code can bring ideas to life, the more I'm inspired to keep following this path.**
+My passion for IT keeps growing, and programming has become more than just a skill — it's my hobby and creative outlet. It turns abstract ideas into real, meaningful apps. **The more I see how a few lines of code can bring concepts to life, the more inspired I am to keep following this path.**
+
+I’m excited to take on real challenges, build impactful apps, and grow into a strong, versatile developer.
+
 
 ## My most fully developed,
 
@@ -62,3 +65,7 @@ To build a strong foundation in IT and pursue further education (Duales Studium)
 
 
 Feel free to check out my projects and follow my journey! ⭐
+
+## 🤝 Let’s connect
+
+Open to collaboration, internships, or entry-level roles in Android, Java or software development.
