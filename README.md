@@ -53,7 +53,7 @@ Proud to share this — it brought together everything I’ve learned so far.
 
 ## 🎯 Goal: 
 
-To build a strong foundation in IT and pursue further education (Duales Studium) in software development.
+To build a strong foundation in IT and pursue further education in software development.
 
 ## 🌍 Languages:
 
@@ -68,4 +68,4 @@ Feel free to check out my projects and follow my journey! ⭐
 
 ## 🤝 Let’s connect
 
-Open to collaboration, internships, or entry-level roles in Android, Java or software development.
+Open to collaboration, internships, or entry-level roles in Android, Java, software or web development.
