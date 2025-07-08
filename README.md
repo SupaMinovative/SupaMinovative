@@ -8,7 +8,7 @@
 
 Hi there 👋
 
-I’m **Min** — a self-taught and passionate Junior Android Developer 📱 with solid Java ☕ skills and a strong drive to keep growing. I’ve built Android apps using MVVM architecture, Room Database, RecyclerView, and multithreading — while constantly deepening my knowledge and sharpening my skills in software development.
+I’m **Min** — a self-taught and passionate Android Development Learner 📱 with solid Java ☕ skills and a strong drive to keep growing. I’ve built Android apps using MVVM architecture, Room Database, RecyclerView, and multithreading — while constantly deepening my knowledge and sharpening my skills in software development.
 
 My passion for IT keeps growing, and programming has become more than just a skill — it's my hobby and creative outlet. It turns abstract ideas into real, meaningful apps. **The more I see how a few lines of code can bring concepts to life, the more inspired I am to keep following this path.**
 
